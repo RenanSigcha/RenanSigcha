@@ -1,6 +1,6 @@
 # ¡Hola! Soy Renan 👋
 
-Soy un apasionado por la tecnología impulsado por una constante curiosidad por entender cómo funcionan los sistemas y descubrir formas de mejorarlos. Disfruto tener una visión integral y versátil: exploro desde la arquitectura de software y el desarrollo de aplicaciones web, hasta el mantenimiento de hardware y la edición audiovisual.
+Soy un apasionado por la tecnología impulsado por una constante curiosidad por comprender el funcionamiento de los sistemas y descubrir formas de mejorarlos. Disfruto tener una visión integral y versátil: exploro desde la arquitectura de software y el desarrollo de aplicaciones web, hasta el mantenimiento de hardware y la edición audiovisual.
 
 Creo firmemente en el aprendizaje continuo y en la construcción de soluciones tecnológicas eficientes que resuelvan problemas del mundo real.
 
@@ -9,8 +9,7 @@ Creo firmemente en el aprendizaje continuo y en la construcción de soluciones t
 **Desarrollo Backend & Bases de Datos:**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -28,8 +27,7 @@ Creo firmemente en el aprendizaje continuo y en la construcción de soluciones t
 *   **Sistema Web para el Control Administrativo y Gestión Operativa:** *(PWA)* 
     Desarrollo de una solución para el sector transporte. Implementación de arquitectura MVC, patrones de diseño (Strategy, Observer) y sincronización de datos offline mediante IndexedDB para garantizar el funcionamiento sin red en módulos móviles.
 *   **Sistema POS SaaS con Facturación Electrónica:**
-    Aplicación web de punto de venta integrada con la API del SRI para la emisión automatizada de comprobantes electrónicos en comercios locales.
-
+    
 ---
 
 ### 📊 Actividad y Estadísticas
