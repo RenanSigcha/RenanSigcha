@@ -42,5 +42,5 @@ Creo firmemente en el aprendizaje continuo y en la construcción de soluciones t
 ### 📫 Conectemos
 
 - **Ubicación:** Guaranda, Ecuador
-- **LinkedIn:** [Tu enlace de LinkedIn aquí](#)
-- **Email:** [Tu correo aquí](#)
+- **LinkedIn:**  https://www.linkedin.com/in/renan-sigcha-971089318/(#)
+- **Email:** renansigcha12@gmail.com(#)
