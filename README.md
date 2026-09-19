@@ -41,6 +41,6 @@ Creo firmemente en el aprendizaje continuo y en la construcción de soluciones t
 
 ### 📫 Conectemos
 
-- **Ubicación:** Guaranda, Ecuador
+- **Ubicación:** Ambato, Ecuador
 - **LinkedIn:**  https://www.linkedin.com/in/renan-sigcha-971089318/(#)
 - **Email:** renansigcha12@gmail.com(#)
