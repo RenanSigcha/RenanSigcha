@@ -26,9 +26,8 @@ Creo firmemente en el aprendizaje continuo y en la construcción de soluciones t
 
 *   **Sistema Web para el Control Administrativo y Gestión Operativa:** *(PWA)* 
     Desarrollo de una solución para el sector transporte. Implementación de arquitectura MVC, patrones de diseño (Strategy, Observer) y sincronización de datos offline mediante IndexedDB para garantizar el funcionamiento sin red en módulos móviles.
-*   **Sistema POS SaaS con Facturación Electrónica:**
-    
----
+*   **Sistema para venta de insumos agricolas:**
+    En este proyecto Laravel se va a trabajar en la creación de una página web de venta de insumos agrícolas. Esta aplicación permitirá a los usuarios visualizar y comprar productos relacionados con la agricultura de manera sencilla y eficiente. A través de esta plataforma, se gestionarán los productos, pedidos y la información de los usuarios.
 
 ### 📊 Actividad y Estadísticas
 
